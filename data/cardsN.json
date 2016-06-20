@@ -1,0 +1,14 @@
+{
+	"cards":[
+			{"data":1,"src":"data/א.jpg"},
+			{"data":2,"src":"data/ב.jpg"},
+	 		{"data":3,"src":"data/ג.jpg"},
+	 		{"data":4,"src":"data/ד.jpg"},
+	 		{"data":5,"src":"data/ה.jpg"},
+			{"data":6,"src":"data/ו.jpg"},
+	 		{"data":7,"src":"data/ז.jpg"},
+			{"data":8,"src":"data/ח.jpg"},
+			{"data":9,"src":"data/ט.jpg"},
+	 		{"data":10,"src":"data/י.jpg"}
+	 		]
+}

@@ -1,0 +1,7 @@
+open cmd..
+
+
+E:
+cd E:\workspace\angularStart\angular-memory-game
+
+npm start
